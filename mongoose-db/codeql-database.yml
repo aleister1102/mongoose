@@ -1,0 +1,13 @@
+---
+sourceLocationPrefix: /home/insomnia/repos/mongoose
+baselineLinesOfCode: 119410
+unicodeNewlines: true
+columnKind: utf16
+primaryLanguage: javascript
+creationMetadata:
+  sha: e86c10260e3918c522ca7d458e3f3c5a40283aaf
+  cliVersion: 2.23.0
+  creationTime: 2025-09-09T15:17:18.762041706Z
+overlayBaseDatabase: false
+overlayDatabase: false
+finalised: true
